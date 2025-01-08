@@ -8,7 +8,7 @@ jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyterlab==2.1.4
 jupyterlab-server==1.1.5
-Keras==2.4.3
+Keras==3.8.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
 lab==6.0
