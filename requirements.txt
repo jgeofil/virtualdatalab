@@ -30,6 +30,6 @@ tensorboard-plugin-wit==1.7.0
 tensorflow==2.2.0
 tensorflow-estimator==2.2.0
 tensorflow-probability==0.10.1
-torch==1.5.1
+torch==2.4.0
 torchsummary==1.5.1
 torchvision==0.6.1
